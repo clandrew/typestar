@@ -48,6 +48,8 @@ This demo is set up using Visual Studio 2019 which calls [64tass](https://tass64
 
 There are Visual Studio custom build steps which call into [64tass](https://tass64.sourceforge.net). You may need to update these build steps to point to wherever the 64tass executable lives on your machine. I noticed good enough integration with the IDE, for example if there is an error when assembling, the message pointing to the line number gets conveniently reported through to the Errors window that way.
 
+[![IMAGE ALT TEXT](http://img.youtube.com/vi/QNos2w_K0xw/0.jpg)](http://www.youtube.com/watch?v=QNos2w_K0xw "Video Title")
+
 For a best experience, consider using [this Visual Studio extension](https://github.com/clandrew/vscolorize65c816) for 65c816-based syntax highlighting.
 
 The build generates a .PGZ executable.
