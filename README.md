@@ -25,7 +25,7 @@ The reason for depending on 65816-based CPU is because I was short on time and u
 
 ## Release
 
-If you don't want to build, you can simply download a release here.
+If you don't want to build, you can simply download a release [here](https://github.com/clandrew/typestar/releases/).
 
 ## Launching the game
 
