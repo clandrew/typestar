@@ -13,6 +13,8 @@ Objective:
   * Lives are shown on the HUD at the top right.
 * If you lose all lives, the game is over. There is a prompt to try again.
 
+![alt text](https://raw.githubusercontent.com/clandrew/typestar/main/Images/TitleEmu.png?raw=true)
+
 ## System Requirements
 
 The game can be run on FoenixIDE emulator, or on F256K hardware. It requires 65816-based F256K.
