@@ -1,0 +1,30 @@
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XF                                    YX
+X 88888888888                          X
+X     888                              X
+X     888     888                      X
+X     888 888  888 88888b.   .d88b.    X
+X     888 888  888 888 "88b d8P  Y8b   X
+X     888 888  888 888  888 88888888   X
+X     888 Y88b 888 888 d88P Y8b.       X
+X     888  "Y88888 88888P"   "Y8888    X
+X              888 888                 X
+X    .d8888b.  888                     X
+X   d88P  Y88b 888        o            X
+X   Y88b.      888       ,8b           X
+X    "Y888b.   888888   ,888b   888d88 X
+X       "Y88b. 888   "Y8888888F"888P"  X
+X         "888 888     "F8"YF"  888    X
+X   Y88b  d88P Y88b.   d8F T8b  888    X
+X    "Y8888P"   "Y888 d"     "b 888    X
+X                                      X
+X                                      X
+X                                      X
+X                                      X
+X         Press SPACE to start!        X
+X                                      X
+X                                      X
+X                                      X
+X                                      X
+Xb                                    dX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
