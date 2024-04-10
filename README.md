@@ -23,16 +23,6 @@ The reason for depending on F256K is because keys are read from the built-in mat
 
 The reason for depending on 65816-based CPU is because I was short on time and used 16bit addressing to get it done faster.
 
-## Build
-
-This demo is set up using Visual Studio 2019 which calls [64tass](https://tass64.sourceforge.net) assembler.
-
-There are Visual Studio custom build steps which call into [64tass](https://tass64.sourceforge.net). You may need to update these build steps to point to wherever the 64tass executable lives on your machine. I noticed good enough integration with the IDE, for example if there is an error when assembling, the message pointing to the line number gets conveniently reported through to the Errors window that way.
-
-For a best experience, consider using [this Visual Studio extension](https://github.com/clandrew/vscolorize65c816) for 65c816-based syntax highlighting.
-
-The build generates a .PGZ executable.
-
 ## Release
 
 If you don't want to build, you can simply download a release here.
@@ -50,3 +40,14 @@ Or, to start the game from the microkernel DOS, use
 ```
 
 with a space after the hyphen.
+
+
+## Build
+
+This demo is set up using Visual Studio 2019 which calls [64tass](https://tass64.sourceforge.net) assembler.
+
+There are Visual Studio custom build steps which call into [64tass](https://tass64.sourceforge.net). You may need to update these build steps to point to wherever the 64tass executable lives on your machine. I noticed good enough integration with the IDE, for example if there is an error when assembling, the message pointing to the line number gets conveniently reported through to the Errors window that way.
+
+For a best experience, consider using [this Visual Studio extension](https://github.com/clandrew/vscolorize65c816) for 65c816-based syntax highlighting.
+
+The build generates a .PGZ executable.
